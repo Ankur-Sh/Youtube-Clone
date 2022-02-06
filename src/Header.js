@@ -17,9 +17,9 @@ function Header() {
                 <Link to="/">
                     <img
                         className="header_logo"
-                        src="\home\rishabh\Desktop\Articles\react js\Youtube clone\youtube-clone\youtube_logo.jpg
+                        src="/home/rishabh/Desktop/Articles/react js/Youtube clone/youtube-clone/youtube_logo.jpg
             "
-                        alt=""
+                        alt="Youtube icon"
                     />
                 </Link>
             </div>
@@ -38,7 +38,10 @@ function Header() {
                 <VideoCallIcon className="header_icon" />
                 <AppsIcon className="header_icon" />
                 <NotificationsIcon className="header_icon" />
-                <Avatar alt="avatar" src="" />
+                <Avatar
+                    alt="avatar"
+                    src="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
+                />
             </div>
         </div>
     );

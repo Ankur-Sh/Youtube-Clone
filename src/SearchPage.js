@@ -14,7 +14,7 @@ function SearchPage() {
             </div>
             <hr />
             <ChannelRow
-                image="https://kajabi-storefronts-production"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 channel="Clever Programmer"
                 verified
                 subs="660K"
@@ -29,7 +29,7 @@ function SearchPage() {
                 timestamsp="59 seconds ago"
                 channel="Clever Programmer"
                 title="Let's Build a Youtube Clone with REACT JS for "
-                image="https://"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
             />
             <VideoRow
                 views="1.4M"
@@ -38,7 +38,7 @@ function SearchPage() {
                 timestamsp="59 seconds ago"
                 channel="Clever Programmer"
                 title="Let's Build a Youtube Clone with REACT JS for "
-                image="https://"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
             />
             <VideoRow
                 views="1.4M"
@@ -47,7 +47,7 @@ function SearchPage() {
                 timestamsp="59 seconds ago"
                 channel="Clever Programmer"
                 title="Let's Build a Youtube Clone with REACT JS for "
-                image="https://"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
             />
             <VideoRow
                 views="1.4M"
@@ -56,7 +56,7 @@ function SearchPage() {
                 timestamsp="59 seconds ago"
                 channel="Clever Programmer"
                 title="Let's Build a Youtube Clone with REACT JS for "
-                image="https://"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
             />
             <VideoRow
                 views="1.4M"
@@ -65,7 +65,7 @@ function SearchPage() {
                 timestamsp="59 seconds ago"
                 channel="Clever Programmer"
                 title="Let's Build a Youtube Clone with REACT JS for "
-                image="https://"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
             />
             <VideoRow
                 views="1.4M"
@@ -74,7 +74,7 @@ function SearchPage() {
                 timestamsp="59 seconds ago"
                 channel="Clever Programmer"
                 title="Let's Build a Youtube Clone with REACT JS for "
-                image="https://"
+                image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
             />
         </div>
     );

@@ -10,7 +10,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/images"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -18,7 +18,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/images"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -26,7 +26,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/images"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -34,7 +34,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/images"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -42,7 +42,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -50,7 +50,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -58,7 +58,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -66,7 +66,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -74,7 +74,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -82,7 +82,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -90,7 +90,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -98,7 +98,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -106,7 +106,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -114,7 +114,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -122,7 +122,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -130,7 +130,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -138,7 +138,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -146,7 +146,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -154,7 +154,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
@@ -162,7 +162,7 @@ function RecommendedVideos() {
                     title="Become a Web Developer in 10 minutes | 2019/2020"
                     views="2.3M Views"
                     timestamp="3 days ago"
-                    channelImage="https://rncrypted-tbn0.gstatic.com/image"
+                    channelImage="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                     channel="Sonny Sangha"
                     image="https://i.ytimg.com/vi/UaB_FtsdlYk/hqdefault.jpg"
                 />
